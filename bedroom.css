@@ -1,0 +1,40 @@
+body
+{
+ background-size: cover;
+ background-position: center;
+}
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+font-family: cursive;
+color: rgb(243, 235, 188);
+}
+
+#back_button
+{
+    background-color: black;
+    color: aliceblue;
+    font-family: serif;
+    float: right;
+    border-radius: 15%;
+    height: 50px;
+    width: 5%;
+    margin-right: 20px;
+}
+
+canvas
+{
+    box-shadow: 10px 10px 10px grey ;
+    border-radius: 10px;
+}
+
+#text
+{
+    color: bisque;
+    font-size: 20px;
+    font-family: monospace;
+    margin-left:100px;
+}
